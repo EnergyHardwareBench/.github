@@ -1,1 +1,5 @@
-# Energy Hardware Bench
+# About
+
+EHB is a set of open source lab-scale scientific hardware and analytical instrumentation relevant to key research areas for the energy transition including electrochemistry, materials characterization, and power electronics. Our website provides detailed documentation including parts lists, assembly and calibration instructions, chemical compatibility data, safety considerations, modification suggestions, and case studies completely free for scientific and educational use. While we've tried to document all the quirks of hardware to the best of our abilities, you're always welcome to reach out to us at hardware@mit.edu for help and suggestions!
+
+The tools provided here serve multiple purposes. First, they were specifically developed to reduce the engineering effort needed to collect robust data, especially in the case of operando characterization. Second, they are operable under industrial conditions, to help accelerate technologies out of the lab into the real world. Third, they are designed to be economically and technically accessible, and are made to be iterated upon by you! 
